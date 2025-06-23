@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Rellenar inputs con Alt + Y
+// @name         Complete fields in forms
 // @namespace    https://tu-netsuite
 // @version      2.3
 // @description  Aplica valor del campo #label al último input visible de cada fila editable
